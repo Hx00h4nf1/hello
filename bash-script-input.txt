@@ -1,0 +1,225 @@
+1013961111
+1218902777
+926252661
+Blink Indoor
+Blink Mini
+Blink Outdoor
+Blink Sync Module 2
+Blink Video Doorbell
+Chime
+Indoor Cam
+Peephole Cam
+Ring Alarm
+Ring Smart Lighting Bridge
+Stickup Cam
+Video Doorbell
+com.immediasemi.android.blink
+com.ring.neighborhoods
+com.ringapp
+https://admin.ring.com/*
+https://api.ring.com/*
+https://ring.com/*
+prd-ring-web-us.prd.rings.solutions
+www.six-group.com
+com.anker.AnkerMake
+com.security.BatteryCam
+com.security.care
+https://us.eufy.com/products/e8213181
+https://www.ankermake.com/products/m5?variant=42744298373269
+1023499075
+com.eero.android
+eero (2nd Generation)
+eero 6 (3rd Generation)
+eero 6 Extender (3rd Generation)
+eero 6 Pro
+eero 6+ (4th Gen)
+eero 6E Pro (4th Gen)
+eero Beacon (2nd Generation)
+eero Pro (2nd Generation)
+https://api-user.e2ro.com/*
+Mozilla Ad Routing Service
+Mozilla VPN Clients
+Product Delivery
+accounts.firefox.com
+addons.allizom.org
+api.profiler.firefox.com
+https://ring.com/*https://ring.com/*https://ring.com/*https://ring.com/*
+aus5.mozilla.org
+bugzilla.mozilla.org
+community-tc.services.mozilla.com
+crash-reports.allizom.org
+hg.mozilla.org
+Mac OS Executable
+OKT Chain
+OKX Android APK
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+OKX iOS APP
+Okcoin Android APK
+Okcoin iOS App
+Windows OS Executable
+api.wisdomtreeprimeapp.com
+com.wisdomtree.wtprime
+com.wisdomtree.wtprime
+www.analvids.com
+www.ddfcontent.com
+https://ring.com/*
+www.pornbox.com
+www.pornworld.com
+https://github.com/tronprotocol/java-tron
+ro.superbet.games
+ro.superbet.sport
+Magic Eden Wallet (Chrome Extension)
+eng.magiceden.dev
+eng.magiceden.io
+https://github.com/coralcube-oss/mmm/releases/latest
+https://github.com/magiceden-oss/erc721m/releases/latest
+https://github.com/magiceden-oss/open_creator_protocol/releases/latest
+magiceden.io
+1431768824
+563291345
+965180355
+api.avtoelon.uz
+api.kolesa.kz
+api.krisha.kz
+com.boozt
+com.boozt.app
+com.boozt.booztlet
+com.booztlet
+my.sheer.com
+www.sheer.com
+1589071345
+apix.vodafone.om
+om.vodafone.mva
+vfo01.vodafone.om
+
+cargo.indrive.com
+ci.indrive.dev
+debug.clairvoyance.indrive.tech
+messenger.eu-east-1.indriverapp.com
+new-order.eu-east-1.indriverapp.com
+volans.tech
+watchdocs.indriverapp.com
+wga.volans.tech
+1671793296
+zerobounce.net
+1291586307
+1324809509
+1528364633
+302584613
+621574163
+944011620
+947984433
+Echo Family Devices
+FireTV
+Kindle E-Reader
+Luna
+Other
+Tablets
+a4k.amazon.com
+alexa.amazon.com
+alexaanswers.amazon.com
+amazon.com/hz/mycd/*
+api.amazonalexa.com/*
+blueprints.amazon.com
+com.amazon.clouddrive.photos
+com.amazon.cosmos
+com.amazon.dee.app
+com.amazon.kindle
+com.amazon.storm.lightning.client.aosp
+com.amazon.tahoe.freetime
+com.amazon.tails
+creator.amazon.com
+developer.amazon.com/alexa/*
+developer.amazon.com/apps-and-games/*
+https://luna.amazon.com/*
+https://www.amazon.com/luna/*
+read.amazon.com
+skills-store.amazon.com
+www.amazon.com/photos/*
+Android & iOS App for REI Customers
+Any public cloud resource or infrastructure operated and managed by REI.
+http://collaboration.rei.com
+http://rei.com/adventures
+http://rei.com/events
+http://rei.com/lists
+http://www.rei.com/learn/expert-advice
+rei.com
+api.mergify.com
+dashboard.mergify.com
+https://www.zabbix.com/download_sources
+com.coinhako
+com.coinhako.app
+royal.checksw.com
+app.dynamic-preprod.xyz
+app.dynamic.xyz
+demo.dynamic.xyz
+329381334701178885
+831287358355275877
+937011954453721119
+961114489414094898
+app.moderntreasury.com
+http://sandbox-api.fireblocks.io
+http://sb-console-api.fireblocks.io
+http://sb-mobile-api.fireblocks.io
+https://sandbox.fireblocks.io/v2/settings/notifications
+sandbox.fireblocks.io
+Authentication component
+MetaMask Browser Extension
+MetaMask SDK
+Snaps
+Snaps Development Packages
+Third Party Snaps
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+https://user-storage.api.cx.metamask.io
+io.metamask
+io.metamask.Metamask
+metamask.io
+portfolio.metamask.io
+http://skinport.com/blog/
+skinport.com
+api-eu.floqast.app
+192.251.124.0/24
+Any public (Internet-facing) infrastructure owned and operated by Palantir.
+Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure 192.251.125.0/24 operated and managed by Palantir.
+MongoDB BI Connector
+MongoDB Cluster-To-Cluster sync
+MongoDB Compass
+MongoDB Driver: .NET
+MongoDB Driver: C
+MongoDB Driver: C#
+MongoDB Driver: C++
+MongoDB Driver: Go
+MongoDB Driver: Java
+MongoDB Driver: Node.js
+MongoDB Driver: PHP
+MongoDB Driver: Python
+MongoDB Driver: Ruby
+MongoDB Driver: Rust
+MongoDB Driver: Swift
+MongoDB Kafka Connector
+MongoDB Owned GitHub Repositories
+MongoDB Realm SDKs
+MongoDB Relational Migrator
+MongoDB Server Local Instance
+MongoDB Shell
+MongoDB Spark Connector
+MongoDB VS Code Plugin
+artifactory.corp.mongodb.com/
+https://www.*mongodb.com/*
+mongodb.live/*
+1293674041
+Tier 1
+Tier 2
+com.deribit
+insights.deribit.com
+test.deribit.com
+tools.deribit.com
+api.sorare.com
+sorare.com
+ws.sorare.com
+192.251.123.0/24
+192.251.126.0/24
+hilton.com
+hilton.io
