@@ -1,1 +1,15 @@
-grep -oP '((http|https)://)?(www\.)?([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,6}' "$1" | sed 's/.*:\/\///' | sed 's/^www\.//' | sort -u
+#!/bin/bash
+
+# Check if a file is provided
+if [ -z "$1" ]; then
+    echo "Usage: $0 <input_file>"
+    exit 1
+fi
+
+# Extract domains
+echo "Extracting domains:"
+grep -oP '(http[s]?://)?([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,6}' "$1" | sed 's/.*:\/\///' | sed 's/^www\.//' | sort -u
+
+# Extract IP addresses
+echo -e "\nExtracting IP addresses:"
+grep -oE '\b([0-9]{1,3}\.){3}[0-9]{1,3}\b' "$1" | sort -u
