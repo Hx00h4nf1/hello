@@ -8,3 +8,6 @@ warp-cli connect
 curl https://www.cloudflare.com/cdn-cgi/trace/warp=on
 [6:38 PM]
 warp-cli --help
+
+
+https://gist.github.com/anir0y/8529960c18e212948b0e40ed1fb18d6d#file-fuel-cms-py
