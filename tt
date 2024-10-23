@@ -13,8 +13,7 @@ warp-cli --help
 https://gist.github.com/anir0y/8529960c18e212948b0e40ed1fb18d6d#file-fuel-cms-py
 
 https://drive.google.com/file/d/1-WS5xGu2Uqj6tdqOiydvh0DFOZUNHdjA/view?usp=sharing
-
+be607453caada6a05d00c0ea0057f733
 
 impacket-GetUserSPNs -request -dc-ip <domain_controller_ip> remo.htb/'o.rashed':'MyP@ssw0rd!'
 
-http://wcamxwl32pue3e6meg23gmgi834k0wz0x9dmcwvo-web.cybertalentslabs.com/
